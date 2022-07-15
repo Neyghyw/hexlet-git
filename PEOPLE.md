@@ -17,3 +17,6 @@ def func(args):
 	return Bug
 	
 # comments about func working
+
+BUG 
+BUG123
