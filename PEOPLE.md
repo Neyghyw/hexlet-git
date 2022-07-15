@@ -1,7 +1,7 @@
 Bang bang bang
 HI HEXLET
 
-bug1
-bug2
-bug3
-a lot of more BUUUUGS!
+feature3
+feature2
+feature1
+a lot of more FEATURES!
