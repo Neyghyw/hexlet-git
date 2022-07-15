@@ -10,11 +10,9 @@ def is_you_in_the_army_now_son(age: int) -> bool:
 	return  age  > 18 and age < 27
 
 
-A lot of very good functional.
-A lot of normal functional
+Some code
 
-
-def func(args):
-	return Bug
+def func(args*):
+	return Bug.sound()
 	
 # comments about func working
