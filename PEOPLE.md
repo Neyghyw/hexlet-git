@@ -11,3 +11,9 @@ def print_greeting(name: str) -> str:
 
 A lot of very good functional.
 A lot of normal functional
+
+
+def func(args):
+	return Bug
+	
+# comments about func working
