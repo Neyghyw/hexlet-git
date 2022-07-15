@@ -1,5 +1,6 @@
 Hi, Hexlet, how are you?
 
+BUG
 
 def print_greeting(name: str) -> str:
 	print(f'Hello, {name}!')
