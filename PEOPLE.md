@@ -1,13 +1,8 @@
-Bang bang bang
-HI HEXLET
+Hi, Hexlet, how are you?
 
-feature3
-feature2
-feature1
-a lot of more FEATURES, NOT BUGS!
 
 def print_greeting(name: str) -> str:
 	print(f'Hello, {name}!')
 
-A lot of very good functional.
-A lot of normal functional
+def is_you_in_the_army_now(age: int) -> bool:
+	return  age  > 18 and age < 27
